@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/80-svg/ts-site/issues"
   },
-  "homepage": "https://github.com/80-svg/ts-site#readme"
+  "homepage": "https://github.com/80-svg/ts-site#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
 }
