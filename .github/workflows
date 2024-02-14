@@ -1,4 +1,6 @@
 name: TypeScript Build
+uses: alexthemaster/action-build-typescript@v1.3.1
+            
 
 on:
   push:
